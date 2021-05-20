@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Hi! I&#x27;m Ashley Miller, user experience designer</title>
-    <link href="https://uxashleymiller.github.io/portfolio/feed.xml" rel="self" />
-    <link href="https://uxashleymiller.github.io/portfolio" />
+    <link href="https://www.ashleymmiller.com/feed.xml" rel="self" />
+    <link href="https://www.ashleymmiller.com" />
     <updated>2021-05-03T20:53:23-05:00</updated>
     <author>
         <name>Ashley Miller</name>
     </author>
-    <id>https://uxashleymiller.github.io/portfolio</id>
+    <id>https://www.ashleymmiller.com</id>
 
     <entry>
         <title>Find my device turned fleet management</title>
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/find-my-device-turned-fleet-management/"/>
-        <id>https://uxashleymiller.github.io/portfolio/find-my-device-turned-fleet-management/</id>
+        <link href="https://www.ashleymmiller.com/find-my-device-turned-fleet-management/"/>
+        <id>https://www.ashleymmiller.com/find-my-device-turned-fleet-management/</id>
 
         <updated>2021-05-03T19:30:27-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://uxashleymiller.github.io/portfolio/media/posts/3/p1eicnfe4vbh1nikt1t1n7h1fiv3.png" alt="An android device with a screen displaying multiple devices and statuses" />
+                        <img src="https://www.ashleymmiller.com/media/posts/3/p1eicnfe4vbh1nikt1t1n7h1fiv3.png" alt="An android device with a screen displaying multiple devices and statuses" />
                      Project In an effort to modernize day-to-day activities in the stores,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://uxashleymiller.github.io/portfolio/media/posts/3/p1eicnfe4vbh1nikt1t1n7h1fiv3.png" alt="An android device with a screen displaying multiple devices and statuses" />
+                    <img src="https://www.ashleymmiller.com/media/posts/3/p1eicnfe4vbh1nikt1t1n7h1fiv3.png" alt="An android device with a screen displaying multiple devices and statuses" />
                 <div class="project-description">
 <h2>Project</h2>
 <p>In an effort to modernize day-to-day activities in the stores, business gave them handheld and tablet devices. Handhelds had been going missing at an alarming rate. They looked like phones, which meant they were very attractive for thieves and had a small form factor, so were easily misplaced by well-meaning employees. Over the two years that the modernization project had been active, the company had lost several hundred thousand dollars worth of devices.</p>
@@ -47,11 +47,11 @@
 <h2>Work</h2>
 <p>During previous research outings to the stores, we had heard many comments from the stores about their devices. In general, they didn't really see what was so special about the devices. The lack of training left stores unable to understand exactly everything that the devices were capable of; they saw the devices as smaller telxon (scanner) guns. They treated them the same as well. No one ever wanted to steal the old telxon guns, so store employees would leave the handheld devices out on carts or shelves during their tasks.</p>
 <p>Compounding all these problems was a lack of accountability. These devices were communal and did not require a login to access. Store employees did not feel responsible for these devices and there was no way to make them responsible for the devices.</p>
-<figure class="post__image post__image--wide" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/p1eic3mu2esc6brf1hh71qf81r667.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-xs.jpg 300w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-sm.jpg 480w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-md.jpg 768w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-lg.jpg 1024w"  alt="Our original storyboard for the find my device function" width="1000" height="166">
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/p1eic3mu2esc6brf1hh71qf81r667.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-xs.jpg 300w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-sm.jpg 480w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-md.jpg 768w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2esc6brf1hh71qf81r667-lg.jpg 1024w"  alt="Our original storyboard for the find my device function" width="1000" height="166">
 <figcaption >Our original storyboard for the find my device function</figcaption>
 </figure>
 <p>We introduced our architect, dev team, and UI designer to the project early on so that we could brainstorm and provide feedback on all of those concepts. Before we got attached to any one idea, we wanted to confirm that it was possible using the infrastructure and devices available to us.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/p1eic3mu2cb8f1u141pat1rb7ckn3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-xs.jpg 300w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-sm.jpg 480w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-md.jpg 768w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-lg.jpg 1024w"  alt="Brainstormed list of features by release" width="1000" height="268">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/p1eic3mu2cb8f1u141pat1rb7ckn3.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-xs.jpg 300w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-sm.jpg 480w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-md.jpg 768w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2cb8f1u141pat1rb7ckn3-lg.jpg 1024w"  alt="Brainstormed list of features by release" width="1000" height="268">
 <figcaption >Brainstormed list of features by release</figcaption>
 </figure>
 <p>Ultimately, we recommended the project in phases:</p>
@@ -64,14 +64,14 @@
 <p>Many stores had already created their own version of the sign out sheet. We provided a version that would standardize the process across the chain.</p>
 <h3>Phase 1: Find My Device MVP release</h3>
 <p>This was the meat of what our business partners wanted. The app listed the devices in a single store and allowed a team member to tap a button that would make a specific device ring. The device would ring for five minutes or until the ringtone was deactivated from the now-found device.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/p1eic3mu2e1e16hbq4v817fe1vl78.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-xs.jpg 300w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-sm.jpg 480w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-md.jpg 768w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-lg.jpg 1024w"  alt="Phase 1 sketches" width="1000" height="547">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/p1eic3mu2e1e16hbq4v817fe1vl78.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-xs.jpg 300w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-sm.jpg 480w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-md.jpg 768w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2e1e16hbq4v817fe1vl78-lg.jpg 1024w"  alt="Phase 1 sketches" width="1000" height="547">
 <figcaption >Phase 1 sketches</figcaption>
 </figure>
 <h3>Phase 2: Devices full release</h3>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://uxashleymiller.github.io/portfolio/media/posts/3/gallery/p1eic3mu2cb3c1io627m177o144e4.jpg" data-size="804x1000"><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/gallery/p1eic3mu2cb3c1io627m177o144e4-thumbnail.jpg" alt="" width="768" height="955"></a></figure>
-<figure class="gallery__item"><a href="https://uxashleymiller.github.io/portfolio/media/posts/3/gallery/p1eic3mu2daul1ig11d0l137611j5.jpg" data-size="1000x625"><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/gallery/p1eic3mu2daul1ig11d0l137611j5-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://uxashleymiller.github.io/portfolio/media/posts/3/gallery/p1eic3mu2d1vod1ua51r88s779956.jpg" data-size="1000x559"><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/gallery/p1eic3mu2d1vod1ua51r88s779956-thumbnail.jpg" alt="" width="768" height="429"></a></figure>
+<figure class="gallery__item"><a href="https://www.ashleymmiller.com/media/posts/3/gallery/p1eic3mu2cb3c1io627m177o144e4.jpg" data-size="804x1000"><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/gallery/p1eic3mu2cb3c1io627m177o144e4-thumbnail.jpg" alt="" width="768" height="955"></a></figure>
+<figure class="gallery__item"><a href="https://www.ashleymmiller.com/media/posts/3/gallery/p1eic3mu2daul1ig11d0l137611j5.jpg" data-size="1000x625"><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/gallery/p1eic3mu2daul1ig11d0l137611j5-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://www.ashleymmiller.com/media/posts/3/gallery/p1eic3mu2d1vod1ua51r88s779956.jpg" data-size="1000x559"><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/gallery/p1eic3mu2d1vod1ua51r88s779956-thumbnail.jpg" alt="" width="768" height="429"></a></figure>
 </div></div>
 <p>To try and promote ownership of and responsibility for the devices, we wanted the team members to have a set of tools that would allow them to manage their devices. At a glance, they could see all of their devices in the store, just like in the MVP, but the full release added:</p>
 <ul>
@@ -83,7 +83,7 @@
 </ul>
 <p>The first four features were utility based: They allowed team members to better manage the devices they had and also provided a paper trail. If your name was attached to the device and that device went missing, you would be the one in trouble for it. The final feature, adding a nickname to devices, also promoted ownership: It's much harder to get rid of something you've named.</p>
 <p>We brought out a <a href="https://9lnd3u.axshare.com/start_here.html" title="Link: Prototype">prototype</a> to the stores to get feedback. Certain features were tightened up, others added to the backlog. Overall, the store employees seemed happy with the new tool.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/3/p1eic3mu2f1pk28gmj8m19941u7d9.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-xs.jpg 300w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-sm.jpg 480w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-md.jpg 768w ,https://uxashleymiller.github.io/portfolio/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-lg.jpg 1024w"  alt="" width="981" height="494">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/3/p1eic3mu2f1pk28gmj8m19941u7d9.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-xs.jpg 300w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-sm.jpg 480w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-md.jpg 768w ,https://www.ashleymmiller.com/media/posts/3/responsive/p1eic3mu2f1pk28gmj8m19941u7d9-lg.jpg 1024w"  alt="" width="981" height="494">
 <figcaption >The anticipated timeline of releases</figcaption>
 </figure>
 <h2>End result</h2>
@@ -105,8 +105,8 @@
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/my-resume/"/>
-        <id>https://uxashleymiller.github.io/portfolio/my-resume/</id>
+        <link href="https://www.ashleymmiller.com/my-resume/"/>
+        <id>https://www.ashleymmiller.com/my-resume/</id>
 
         <updated>2021-05-03T19:18:57-05:00</updated>
             <summary>
@@ -203,19 +203,19 @@
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/about-me/"/>
-        <id>https://uxashleymiller.github.io/portfolio/about-me/</id>
+        <link href="https://www.ashleymmiller.com/about-me/"/>
+        <id>https://www.ashleymmiller.com/about-me/</id>
 
         <updated>2021-05-03T19:19:05-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://uxashleymiller.github.io/portfolio/media/posts/1/p1eid14vpn1qbo13ugehm146v20g4.jpg" alt="A smiling adult woman sitting in front of a colorful brick background" />
+                        <img src="https://www.ashleymmiller.com/media/posts/1/p1eid14vpn1qbo13ugehm146v20g4.jpg" alt="A smiling adult woman sitting in front of a colorful brick background" />
                      Fun facts: I'm wild about anything spooky, especially history or true&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://uxashleymiller.github.io/portfolio/media/posts/1/p1eid14vpn1qbo13ugehm146v20g4.jpg" alt="A smiling adult woman sitting in front of a colorful brick background" />
+                    <img src="https://www.ashleymmiller.com/media/posts/1/p1eid14vpn1qbo13ugehm146v20g4.jpg" alt="A smiling adult woman sitting in front of a colorful brick background" />
                 <div class="half right">
 <h2>Fun facts:</h2>
 <ul>
@@ -238,24 +238,24 @@
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/crowd-sourced-wi-fi-reporting/"/>
-        <id>https://uxashleymiller.github.io/portfolio/crowd-sourced-wi-fi-reporting/</id>
+        <link href="https://www.ashleymmiller.com/crowd-sourced-wi-fi-reporting/"/>
+        <id>https://www.ashleymmiller.com/crowd-sourced-wi-fi-reporting/</id>
 
         <updated>2021-05-03T20:53:23-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://uxashleymiller.github.io/portfolio/media/posts/4/p1eicnsrgd1ablhbn1t9g1oah4cv3.png" alt="A screen with a rudimentary map and a button on an android device" />
+                        <img src="https://www.ashleymmiller.com/media/posts/4/p1eicnsrgd1ablhbn1t9g1oah4cv3.png" alt="A screen with a rudimentary map and a button on an android device" />
                      Project In an effort to modernize day-to-day activities in the stores,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://uxashleymiller.github.io/portfolio/media/posts/4/p1eicnsrgd1ablhbn1t9g1oah4cv3.png" alt="A screen with a rudimentary map and a button on an android device" />
+                    <img src="https://www.ashleymmiller.com/media/posts/4/p1eicnsrgd1ablhbn1t9g1oah4cv3.png" alt="A screen with a rudimentary map and a button on an android device" />
                 <div class="project-description">
 <h2>Project</h2>
 <p>In an effort to modernize day-to-day activities in the stores, business gave them handheld and tablet devices. The new devices required nearly constant Wi-Fi connection. We heard constant complaints about the connectivity and speed. Store employees specifically called out being embarrassed to use the devices in front of customers because of how slow they were.</p>
 <p>The team responsible for in-store internet had no time or money to invest in new internet hardware. When discussing their issue, we realized we may be able to help them collect data to plead their case. I designed a tool that would allow store employees to report Wi-Fi strength for different parts of the store.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/4/p1eihkjcvc64lugs1msglnhqqn6.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-xs.jpg 300w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-sm.jpg 480w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-md.jpg 768w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-lg.jpg 1024w"  alt="An example of one of the flows" width="1494" height="757">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/4/p1eihkjcvc64lugs1msglnhqqn6.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-xs.jpg 300w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-sm.jpg 480w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-md.jpg 768w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvc64lugs1msglnhqqn6-lg.jpg 1024w"  alt="An example of one of the flows" width="1494" height="757">
 <figcaption >An example of one of the flows</figcaption>
 </figure>
 <ul>
@@ -274,11 +274,11 @@
 <li>There were no maps of each store</li>
 </ul>
 <p>Both of those limitations meant that we were unable to provide maps as part of the tool. So instead of personalizing the tool per store, I created a checklist of departments that a store employee could go through. They could skip a department if they didn't have it, ex. the training room. </p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/4/p1eihkjcv9p6m1qrp704126du0f4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-xs.png 300w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-sm.png 480w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-md.png 768w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-lg.png 1024w"  alt="Finalized design for the tablets" width="774" height="998">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/4/p1eihkjcv9p6m1qrp704126du0f4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-xs.png 300w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-sm.png 480w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-md.png 768w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcv9p6m1qrp704126du0f4-lg.png 1024w"  alt="Finalized design for the tablets" width="774" height="998">
 <figcaption >Finalized design for the tablets</figcaption>
 </figure>
 <p>But because departments could be in wildly different locations depending on the building, I wanted to try and measure some kind of geographical-based signals. Without a floor plan, though, I decided that maybe we could draw some kind of rudimentary map to represent the store and doors. I had no idea how that was going to go during research. The map looked like a square faced with buck teeth.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/4/p1eihkjcvbgfldi416nn2katq35.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-xs.png 300w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-sm.png 480w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-md.png 768w ,https://uxashleymiller.github.io/portfolio/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-lg.png 1024w"  alt="Prototype concept of the corner mapping design" width="774" height="998">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/4/p1eihkjcvbgfldi416nn2katq35.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-xs.png 300w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-sm.png 480w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-md.png 768w ,https://www.ashleymmiller.com/media/posts/4/responsive/p1eihkjcvbgfldi416nn2katq35-lg.png 1024w"  alt="Prototype concept of the corner mapping design" width="774" height="998">
 <figcaption >Prototype concept of the corner mapping design</figcaption>
 </figure>
 <p>We brought paper printouts to stores to research. The managers were thrilled. This would give them an opportunity to provide feedback to improve their stores. Even though we were asking them to add yet another task to their overloaded days, they described how they would add the Wi-Fi tracker to their daily walks. They understood the rudimentary map. The only request was to provide a handheld version, because they preferred the handheld device to the tablet.</p>
@@ -297,19 +297,19 @@
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/streamlined-purchase-of-restricted-products/"/>
-        <id>https://uxashleymiller.github.io/portfolio/streamlined-purchase-of-restricted-products/</id>
+        <link href="https://www.ashleymmiller.com/streamlined-purchase-of-restricted-products/"/>
+        <id>https://www.ashleymmiller.com/streamlined-purchase-of-restricted-products/</id>
 
         <updated>2021-05-03T20:53:12-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://uxashleymiller.github.io/portfolio/media/posts/5/p1eico2du4viv1iqmse63mn79e3.png" alt="" />
+                        <img src="https://www.ashleymmiller.com/media/posts/5/p1eico2du4viv1iqmse63mn79e3.png" alt="" />
                      Project There are certain types of products that are used to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://uxashleymiller.github.io/portfolio/media/posts/5/p1eico2du4viv1iqmse63mn79e3.png" alt="" />
+                    <img src="https://www.ashleymmiller.com/media/posts/5/p1eico2du4viv1iqmse63mn79e3.png" alt="" />
                 <div class="project-description">
 <h2>Project</h2>
 <p>There are certain types of products that are used to transport water, but are not safe for human consumption, usually because of whatever the product was made out of. These items are restricted. When selling one of these items, a retailer has to make it clear that the item cannot legally be used for human consumption (otherwise known as potable water). </p>
@@ -325,15 +325,15 @@
 </ul>
 <h2>Work</h2>
 <p>I first heard of this problem while sitting with one of the CSAs during a ride along. She explained that this customer was furious because they had ordered this spigot two weeks ago and he still hadn't gotten a notification. After looking at the website, I understood how the customer might have been led to make a mistake.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/5/p1eih8ts1h178s1nvi15dm1u6v8p83.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-xs.png 300w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-sm.png 480w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-md.png 768w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-lg.png 1024w"  alt="The original flow to purchase a restricted product" width="1105" height="903">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/5/p1eih8ts1h178s1nvi15dm1u6v8p83.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-xs.png 300w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-sm.png 480w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-md.png 768w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1h178s1nvi15dm1u6v8p83-lg.png 1024w"  alt="The original flow to purchase a restricted product" width="1105" height="903">
 <figcaption >The original flow to purchase a restricted product</figcaption>
 </figure>
 <p>I mapped out the current flow from the customer side and from the CSA side, to determine the major pain points. The customer jumped through several hoops on the product page, including digitally signing a poorly worded agreement. The CSA then had to manually check every single order and may even call the customer.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/5/p1eih8ts1j1m33of45rar9klfm4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-xs.png 300w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-sm.png 480w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-md.png 768w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-lg.png 1024w"  alt="The updated flow" width="803" height="624">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/5/p1eih8ts1j1m33of45rar9klfm4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-xs.png 300w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-sm.png 480w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-md.png 768w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1j1m33of45rar9klfm4-lg.png 1024w"  alt="The updated flow" width="803" height="624">
 <figcaption >The updated flow</figcaption>
 </figure>
 <p>After researching competitors and the parent company, I came up with a draft flow and design. I reviewed it with the legal team to make sure that the company was still protected against lawsuits. They approved the flow.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/5/p1eih8ts1l6s5132t6r137g17am5.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-xs.png 300w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-sm.png 480w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-md.png 768w ,https://uxashleymiller.github.io/portfolio/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-lg.png 1024w"  alt="Recommended updates to the cart page" width="924" height="726">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/5/p1eih8ts1l6s5132t6r137g17am5.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-xs.png 300w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-sm.png 480w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-md.png 768w ,https://www.ashleymmiller.com/media/posts/5/responsive/p1eih8ts1l6s5132t6r137g17am5-lg.png 1024w"  alt="Recommended updates to the cart page" width="924" height="726">
 <figcaption >Recommended updates to the cart page</figcaption>
 </figure>
 <h2>End result</h2>
@@ -353,19 +353,19 @@
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/organizing-150-links-into-categories/"/>
-        <id>https://uxashleymiller.github.io/portfolio/organizing-150-links-into-categories/</id>
+        <link href="https://www.ashleymmiller.com/organizing-150-links-into-categories/"/>
+        <id>https://www.ashleymmiller.com/organizing-150-links-into-categories/</id>
 
         <updated>2021-05-03T20:53:02-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://uxashleymiller.github.io/portfolio/media/posts/6/p1eihsve4g15do172116kvgidaba5.jpg" alt="A panoramic shot of the room once we were done organizing and planning out the release calendar, at the very end of the project" />
+                        <img src="https://www.ashleymmiller.com/media/posts/6/p1eihsve4g15do172116kvgidaba5.jpg" alt="A panoramic shot of the room once we were done organizing and planning out the release calendar, at the very end of the project" />
                      Project As part of the modernization effort, business wanted to include&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://uxashleymiller.github.io/portfolio/media/posts/6/p1eihsve4g15do172116kvgidaba5.jpg" alt="A panoramic shot of the room once we were done organizing and planning out the release calendar, at the very end of the project" />
+                    <img src="https://www.ashleymmiller.com/media/posts/6/p1eihsve4g15do172116kvgidaba5.jpg" alt="A panoramic shot of the room once we were done organizing and planning out the release calendar, at the very end of the project" />
                 <div class="project-description">
 <div>
 <h2>Project</h2>
@@ -380,7 +380,7 @@
 </ul>
 <h2>Work</h2>
 <p>150 links are overwhelming for a single person to organize and I was unfamiliar with almost all of the links. Another UX designer, a researcher, and I decided to lock ourselves in an empty storage closet for a week. We divided and conquered. Each of us took about 50 links, visited them, and contributed information to the shared spreadsheet. This collaboration was done in a day. We spent the next couple days organizing and reorganizing these links onto the walls of the storage closet. We ended up with about 7 top level categories. </p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/6/p1eii59tjc1r8517j6o5edplirq3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://uxashleymiller.github.io/portfolio/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-xs.png 300w ,https://uxashleymiller.github.io/portfolio/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-sm.png 480w ,https://uxashleymiller.github.io/portfolio/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-md.png 768w ,https://uxashleymiller.github.io/portfolio/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-lg.png 1024w"  alt="A sample of the spreadsheet we used to keep track of our links and organize our thoughts" width="2000" height="796">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/6/p1eii59tjc1r8517j6o5edplirq3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ashleymmiller.com/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-xs.png 300w ,https://www.ashleymmiller.com/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-sm.png 480w ,https://www.ashleymmiller.com/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-md.png 768w ,https://www.ashleymmiller.com/media/posts/6/responsive/p1eii59tjc1r8517j6o5edplirq3-lg.png 1024w"  alt="A sample of the spreadsheet we used to keep track of our links and organize our thoughts" width="2000" height="796">
 <figcaption >A sample of the spreadsheet we used to keep track of our links and organize our thoughts</figcaption>
 </figure>
 <p>Our guesses were good, but we wanted to make sure they resonated with the stores.</p>
@@ -406,19 +406,19 @@
         <author>
             <name>Ashley Miller</name>
         </author>
-        <link href="https://uxashleymiller.github.io/portfolio/founding-an-ecommerce-wordpress-initiative/"/>
-        <id>https://uxashleymiller.github.io/portfolio/founding-an-ecommerce-wordpress-initiative/</id>
+        <link href="https://www.ashleymmiller.com/founding-an-ecommerce-wordpress-initiative/"/>
+        <id>https://www.ashleymmiller.com/founding-an-ecommerce-wordpress-initiative/</id>
 
         <updated>2021-05-03T20:52:49-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://uxashleymiller.github.io/portfolio/media/posts/7/p1eii6glp017qd549j5k1n5sf273.png" alt="" />
+                        <img src="https://www.ashleymmiller.com/media/posts/7/p1eii6glp017qd549j5k1n5sf273.png" alt="" />
                      Project The salespeople within the company often needed to create microsites&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://uxashleymiller.github.io/portfolio/media/posts/7/p1eii6glp017qd549j5k1n5sf273.png" alt="" />
+                    <img src="https://www.ashleymmiller.com/media/posts/7/p1eii6glp017qd549j5k1n5sf273.png" alt="" />
                 <div class="project-description">
 <h2>Project</h2>
 <p>The salespeople within the company often needed to create microsites for their clients to sell branded products. The existing inventory management software was so niche that a single developer existed for it. That single developer was expensive, severely backlogged, and created mid-90s-esque websites.</p>
@@ -437,9 +437,9 @@
 <h2>End result</h2>
 <p>My eCommerce initiative was a wild success. I could knock them out in a week or two, work directly with the salespeople and clients, and my websites saved the company approximately $60,000 per site I created. They were infinitely more valuable because I could then also train the salespeople to update the products as necessary.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://uxashleymiller.github.io/portfolio/media/posts/7/gallery/p1eii6hc8i121vkl94i11riihgi7.png" data-size="2000x2336"><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/7/gallery/p1eii6hc8i121vkl94i11riihgi7-thumbnail.png" alt="" width="768" height="897"></a></figure>
-<figure class="gallery__item"><a href="https://uxashleymiller.github.io/portfolio/media/posts/7/gallery/p1eii6mnvo1vonvmlj4mlj4a8t4-2.jpg" data-size="2000x4158"><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/7/gallery/p1eii6mnvo1vonvmlj4mlj4a8t4-2-thumbnail.jpg" alt="" width="768" height="1597"></a></figure>
-<figure class="gallery__item"><a href="https://uxashleymiller.github.io/portfolio/media/posts/7/gallery/p1eii6mnvk1tdepmetqg164mj6h3.jpg" data-size="2000x4852"><img loading="lazy" src="https://uxashleymiller.github.io/portfolio/media/posts/7/gallery/p1eii6mnvk1tdepmetqg164mj6h3-thumbnail.jpg" alt="" width="768" height="1863"></a></figure>
+<figure class="gallery__item"><a href="https://www.ashleymmiller.com/media/posts/7/gallery/p1eii6hc8i121vkl94i11riihgi7.png" data-size="2000x2336"><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/7/gallery/p1eii6hc8i121vkl94i11riihgi7-thumbnail.png" alt="" width="768" height="897"></a></figure>
+<figure class="gallery__item"><a href="https://www.ashleymmiller.com/media/posts/7/gallery/p1eii6mnvo1vonvmlj4mlj4a8t4-2.jpg" data-size="2000x4158"><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/7/gallery/p1eii6mnvo1vonvmlj4mlj4a8t4-2-thumbnail.jpg" alt="" width="768" height="1597"></a></figure>
+<figure class="gallery__item"><a href="https://www.ashleymmiller.com/media/posts/7/gallery/p1eii6mnvk1tdepmetqg164mj6h3.jpg" data-size="2000x4852"><img loading="lazy" src="https://www.ashleymmiller.com/media/posts/7/gallery/p1eii6mnvk1tdepmetqg164mj6h3-thumbnail.jpg" alt="" width="768" height="1863"></a></figure>
 </div></div>
 <h2>Reflection</h2>
 <p>This was relatively early on in my career, before I completed my Human-Computer Interaction degree. It was wildly out of the scope of the data entry job I'd been hired for, but I saw an opportunity to fix a big issue some of my coworkers had. I think it was here that I started building the confidence I would need in later jobs. Since then, I've grown even more incapable of staying in my own lane.</p>

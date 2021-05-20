@@ -1,126 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://uxashleymiller.github.io/portfolio/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.ashleymmiller.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/</loc>
+<loc>https://www.ashleymmiller.com/</loc>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/about-me/</loc>
+<loc>https://www.ashleymmiller.com/about-me/</loc>
 <lastmod>2021-05-03T19:19:05-05:00</lastmod>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\1/p1eid14vpn1qbo13ugehm146v20g4.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\1/p1eid14vpn1qbo13ugehm146v20g4.jpg</image:loc>
 <image:title><![CDATA[A smiling adult woman sitting in front of a colorful brick background]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/crowd-sourced-wi-fi-reporting/</loc>
+<loc>https://www.ashleymmiller.com/crowd-sourced-wi-fi-reporting/</loc>
 <lastmod>2021-05-03T20:53:23-05:00</lastmod>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\4/p1eicnsrgd1ablhbn1t9g1oah4cv3.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\4/p1eicnsrgd1ablhbn1t9g1oah4cv3.png</image:loc>
 <image:title><![CDATA[A screen with a rudimentary map and a button on an android device]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\4/p1eihkjcvc64lugs1msglnhqqn6.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\4/p1eihkjcvc64lugs1msglnhqqn6.jpg</image:loc>
 <image:title><![CDATA[An example of one of the flows]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\4/p1eihkjcv9p6m1qrp704126du0f4.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\4/p1eihkjcv9p6m1qrp704126du0f4.png</image:loc>
 <image:title><![CDATA[Finalized design for the tablets]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\4/p1eihkjcvbgfldi416nn2katq35.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\4/p1eihkjcvbgfldi416nn2katq35.png</image:loc>
 <image:title><![CDATA[Prototype concept of the corner mapping design]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/find-my-device-turned-fleet-management/</loc>
+<loc>https://www.ashleymmiller.com/find-my-device-turned-fleet-management/</loc>
 <lastmod>2021-05-03T19:30:27-05:00</lastmod>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/p1eicnfe4vbh1nikt1t1n7h1fiv3.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/p1eicnfe4vbh1nikt1t1n7h1fiv3.png</image:loc>
 <image:title><![CDATA[An android device with a screen displaying multiple devices and statuses]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/p1eic3mu2esc6brf1hh71qf81r667.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/p1eic3mu2esc6brf1hh71qf81r667.jpg</image:loc>
 <image:title><![CDATA[Our original storyboard for the find my device function]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/p1eic3mu2cb8f1u141pat1rb7ckn3.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/p1eic3mu2cb8f1u141pat1rb7ckn3.jpg</image:loc>
 <image:title><![CDATA[Brainstormed list of features by release]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/p1eic3mu2e1e16hbq4v817fe1vl78.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/p1eic3mu2e1e16hbq4v817fe1vl78.jpg</image:loc>
 <image:title><![CDATA[Phase 1 sketches]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/gallery/p1eic3mu2cb3c1io627m177o144e4-thumbnail.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/gallery/p1eic3mu2cb3c1io627m177o144e4-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/gallery/p1eic3mu2daul1ig11d0l137611j5-thumbnail.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/gallery/p1eic3mu2daul1ig11d0l137611j5-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/gallery/p1eic3mu2d1vod1ua51r88s779956-thumbnail.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/gallery/p1eic3mu2d1vod1ua51r88s779956-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\3/p1eic3mu2f1pk28gmj8m19941u7d9.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\3/p1eic3mu2f1pk28gmj8m19941u7d9.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/founding-an-ecommerce-wordpress-initiative/</loc>
+<loc>https://www.ashleymmiller.com/founding-an-ecommerce-wordpress-initiative/</loc>
 <lastmod>2021-05-03T20:52:49-05:00</lastmod>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\7/p1eii6glp017qd549j5k1n5sf273.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\7/p1eii6glp017qd549j5k1n5sf273.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\7/gallery/p1eii6hc8i121vkl94i11riihgi7-thumbnail.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\7/gallery/p1eii6hc8i121vkl94i11riihgi7-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\7/gallery/p1eii6mnvo1vonvmlj4mlj4a8t4-2-thumbnail.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\7/gallery/p1eii6mnvo1vonvmlj4mlj4a8t4-2-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\7/gallery/p1eii6mnvk1tdepmetqg164mj6h3-thumbnail.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\7/gallery/p1eii6mnvk1tdepmetqg164mj6h3-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/my-resume/</loc>
+<loc>https://www.ashleymmiller.com/my-resume/</loc>
 <lastmod>2021-05-03T19:18:57-05:00</lastmod>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/organizing-150-links-into-categories/</loc>
+<loc>https://www.ashleymmiller.com/organizing-150-links-into-categories/</loc>
 <lastmod>2021-05-03T20:53:02-05:00</lastmod>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\6/p1eihsve4g15do172116kvgidaba5.jpg</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\6/p1eihsve4g15do172116kvgidaba5.jpg</image:loc>
 <image:title><![CDATA[A panoramic shot of the room once we were done organizing and planning out the release calendar, at the very end of the project]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\6/p1eii59tjc1r8517j6o5edplirq3.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\6/p1eii59tjc1r8517j6o5edplirq3.png</image:loc>
 <image:title><![CDATA[A sample of the spreadsheet we used to keep track of our links and organize our thoughts]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://uxashleymiller.github.io/portfolio/streamlined-purchase-of-restricted-products/</loc>
+<loc>https://www.ashleymmiller.com/streamlined-purchase-of-restricted-products/</loc>
 <lastmod>2021-05-03T20:53:12-05:00</lastmod>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\5/p1eico2du4viv1iqmse63mn79e3.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\5/p1eico2du4viv1iqmse63mn79e3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\5/p1eih8ts1h178s1nvi15dm1u6v8p83.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\5/p1eih8ts1h178s1nvi15dm1u6v8p83.png</image:loc>
 <image:title><![CDATA[The original flow to purchase a restricted product]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\5/p1eih8ts1j1m33of45rar9klfm4.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\5/p1eih8ts1j1m33of45rar9klfm4.png</image:loc>
 <image:title><![CDATA[The updated flow]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://uxashleymiller.github.io/portfolio/media\posts\5/p1eih8ts1l6s5132t6r137g17am5.png</image:loc>
+<image:loc>https://www.ashleymmiller.com/media\posts\5/p1eih8ts1l6s5132t6r137g17am5.png</image:loc>
 <image:title><![CDATA[Recommended updates to the cart page]]></image:title>
 </image:image>
 </url>
