@@ -3,7 +3,7 @@
     <title>Hi! I&#x27;m Ashley Miller, user experience designer</title>
     <link href="https://www.ashleymmiller.com/feed.xml" rel="self" />
     <link href="https://www.ashleymmiller.com" />
-    <updated>2021-05-03T20:53:23-05:00</updated>
+    <updated>2021-07-02T19:09:08-05:00</updated>
     <author>
         <name>Ashley Miller</name>
     </author>
@@ -108,7 +108,7 @@
         <link href="https://www.ashleymmiller.com/my-resume/"/>
         <id>https://www.ashleymmiller.com/my-resume/</id>
 
-        <updated>2021-05-03T19:18:57-05:00</updated>
+        <updated>2021-07-02T19:09:08-05:00</updated>
             <summary>
                 <![CDATA[
                     Experience ISACA · Senior User Experience Designer · November 2020 - Present Walgreens ·&hellip;
@@ -119,7 +119,12 @@
                 <h2>Experience</h2>
 <p><strong>ISACA</strong> · Senior User Experience Designer · <i>November 2020 - Present</i></p>
 <ul>
-<li>UX team lead</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Founding leader of the UX team</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Led two direct report designers in project activities</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Guiding the company through a technology transformation by creating wireframes, mockups, and user journeys</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Collaborate with stakeholders to define requirements</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Review and provide wireframes, mockups, and prototypes to improve existing functionality</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Daily collaboration with product owners, business analysts, project managers, developers, and QA</span></li>
 </ul>
 <p><strong>Walgreens</strong> · Senior User Experience Designer · <i>May 2017 - November 2020</i></p>
 <ul>
